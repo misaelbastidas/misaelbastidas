@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Misael Bastidas 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Tech+Lead;Solutions+Architect;Building+AI-powered+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Tech+Lead;Solutions+Architect;Building+AI-powered+systems;LLMs+%26+Agentic+Workflows" alt="Typing SVG" />
 </p>
 
 <p align="center">
